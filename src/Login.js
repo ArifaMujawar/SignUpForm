@@ -7,7 +7,7 @@ export class Login extends React.Component{
       <div id="login">
       <input type="email" id="email" placeholder="Email" />
       <input type="password" id="password" placeholder="Password" />
-      <button id="send">Send</button>
+      <button id="send">Log In</button>
       </div>
       </div>
     );

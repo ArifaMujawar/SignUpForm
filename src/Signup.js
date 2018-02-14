@@ -12,7 +12,7 @@ export class Signup extends React.Component{
           <input type="text" id="Age" placeholder="Age" />
           <input type="text" id="password" placeholder="Password" />
           <input type="text" id="confirm" placeholder="Confirm Password" />
-          <button id="send">Send</button>
+          <button id="send">Sign In</button>
         </div>
 
       </div>
